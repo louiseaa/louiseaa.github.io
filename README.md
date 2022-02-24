@@ -2,8 +2,7 @@
 
 Select a playlist to listen to based on your mood for the day
 ### Throwback Playlist
-
-[Songs from 2010](https://youtu.be/pKn6fCRzCS0)
+<iframe width="560" height="315" src="https://www.youtube.com/embed/pKn6fCRzCS0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 ```markdown
 Syntax highlighted code block
 
