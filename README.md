@@ -34,3 +34,6 @@ Having trouble with Pages? Check out our [documentation](https://docs.github.com
 
 ### Kpop Playlist
 <iframe width="560" height="315" src="https://www.youtube.com/embed/_5hW8cc5uH8" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+#### Link to Sir Gain's Github page
+[Sir Gain](https://641n.github.io/)
