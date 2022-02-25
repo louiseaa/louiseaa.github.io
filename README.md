@@ -16,7 +16,7 @@ Having trouble with Pages? Check out our [documentation](https://docs.github.com
 <iframe width="560" height="315" src="https://www.youtube.com/embed/y4alwH9vDKk" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 ### Mood Booster Playlist
-<iframe width="560" height="315" src="https://www.youtube.com/embed/OsO3jK_rPJs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RkjjPj5vstc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 ### 2000's 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/S4bqUlpnF20" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
